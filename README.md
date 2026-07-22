@@ -1,7 +1,7 @@
 # Hi there, I'm Jhojen 👋
 
 ### 🐧 Junior Cloud DevOps & Linux Systems Admin
-I'm a Telecommunications student passionate about **Linux administration, Python & Bash automation, and Cloud Architecture (AWS)**[cite: 1, 2]. Currently focused on building efficient infrastructure and mastering Infrastructure as Code (IaC) workflows[cite: 1, 2].
+I'm a Telecommunications student passionate about **Linux administration, Python & Bash automation, and Cloud Architecture (AWS)**. Currently focused on building efficient infrastructure and mastering Infrastructure as Code (IaC) workflows].
 
 ---
 
