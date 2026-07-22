@@ -33,4 +33,4 @@ I'm a Telecommunications student passionate about **Linux administration, Python
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thejhojen-dev)
