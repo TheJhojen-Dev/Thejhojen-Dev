@@ -27,7 +27,7 @@ I'm a Telecommunications student passionate about **Linux administration, Python
 ### 📌 Featured Projects
 
 * 🚀 **[Cappuccino Hub](https://github.com/Thejhojen-Dev/cappuccino-hub):** Local automation and management ecosystem built with Python.
-* 🗺️ **[Cloud DevOps Roadmap](https://github.com/Thejhojen-Dev/roadmap-cloud-devops):** My documented, hands-on path from Linux System Administration to Cloud Engineering[cite: 1, 2].
+* 🗺️ **[Cloud DevOps Roadmap](https://github.com/Thejhojen-Dev/roadmap-cloud-devops):** My documented, hands-on path from Linux System Administration to Cloud Engineering.
 
 ---
 
