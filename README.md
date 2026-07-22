@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Jhojen 👋
 
-<!--
-**TheJhojen-Dev/Thejhojen-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐧 Junior Cloud DevOps & Linux Systems Admin
+I'm a Telecommunications student passionate about **Linux administration, Python & Bash automation, and Cloud Architecture (AWS)**[cite: 1, 2]. Currently focused on building efficient infrastructure and mastering Infrastructure as Code (IaC) workflows[cite: 1, 2].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tooling
+
+**Systems & Automation:**
+![Linux](https://img.shields.io/badge/Linux_antiX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Networking & Security:**
+![Networking](https://img.shields.io/badge/Networking-SSH%20%7C%20Firewalls%20%7C%20DNS-0055E5?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Hardening%20%7C%20Zero%20Trust-red?style=for-the-badge)
+
+**Cloud & DevOps Roadmap (In Progress):**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+* 🚀 **[Cappuccino Hub](https://github.com/Thejhojen-Dev/cappuccino-hub):** Local automation and management ecosystem built with Python.
+* 🗺️ **[Cloud DevOps Roadmap](https://github.com/Thejhojen-Dev/roadmap-cloud-devops):** My documented, hands-on path from Linux System Administration to Cloud Engineering[cite: 1, 2].
+
+---
+
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN_AQUI)
