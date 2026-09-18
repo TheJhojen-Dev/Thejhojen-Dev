@@ -26,7 +26,7 @@ I'm a Telecommunications student passionate about **Linux administration, Python
 
 ### 📌 Featured Projects
 
-* 🚀 **[DevOps-showcase](https://github.com/TheJhojen-Dev/devops-showcase):** Suite of professional automation and cloud tools.
+* ☁️ **[DevOps-showcase](https://github.com/TheJhojen-Dev/devops-showcase):** Suite of professional automation and cloud tools.
 * 🗺️ **[Cloud DevOps Roadmap](https://github.com/Thejhojen-Dev/roadmap-cloud-devops):** My documented, hands-on path from Linux System Administration to Cloud Engineering.
 
 ---
